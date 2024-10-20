@@ -1,0 +1,27 @@
+Gizlilik Politikası
+
+Bu Gizlilik Politikası, LetSwApp adlı uygulamanın kamera iznini nasıl kullandığını ve kullanıcıların gizliliğini nasıl koruduğunu açıklamaktadır.
+
+Topladığımız Bilgiler
+LetSwApp, yalnızca QR kod okutma amacıyla cihazınızın kamerasına erişim izni ister. Kamera izni, uygulamanın QR kodları taramasına olanak tanır. Tarayıcı fonksiyonu dışında, kamera ile elde edilen hiçbir görüntü veya veri uygulama tarafından kaydedilmez, işlenmez veya üçüncü taraflarla paylaşılmaz.
+
+Kamera İzni
+Kamera izni (android.permission.CAMERA), QR kodları okutabilmeniz için gereklidir. Kamera yalnızca QR kod tarama sırasında aktif hale gelir ve taranan QR kodun içeriği yalnızca QR kodunun çözülmesi için kullanılır. Uygulama, QR kod dışında herhangi bir görseli toplamaz, saklamaz veya başka amaçlarla kullanmaz.
+
+Verilerin Kullanımı
+Uygulama, QR kodun içeriğini yalnızca QR kodunun çözülmesi ve kullanıcının cihazında ilgili işlemi gerçekleştirmek amacıyla kullanır. QR kod taraması sırasında toplanan veriler, herhangi bir sunucuya gönderilmez veya paylaşılmaz.
+
+Üçüncü Taraflarla Paylaşım
+LetSwApp, kullanıcıların kamera aracılığıyla elde ettiği hiçbir veriyi üçüncü taraflarla paylaşmaz. Tarayıcı aracılığıyla toplanan QR kod verileri yalnızca cihaz üzerinde işlenir ve harici olarak depolanmaz.
+
+Güvenlik
+Uygulama, kullanıcı verilerinin güvenliğini sağlamak için gerekli tüm tedbirleri almaktadır. Ancak uygulama, cihazın güvenliği ile ilgili genel tehditlere karşı herhangi bir sorumluluk taşımamaktadır.
+
+Kullanıcı Hakları
+Kullanıcılar, uygulamaya kamera erişimini istedikleri zaman cihaz ayarları üzerinden devre dışı bırakabilirler. Ancak, kamera izni devre dışı bırakıldığında QR kod tarama özelliği kullanılamaz.
+
+Gizlilik Politikası Değişiklikleri
+Bu Gizlilik Politikası zaman zaman güncellenebilir. Kullanıcılarımızı, gizlilik politikamızdaki değişikliklerden haberdar etmek için bu sayfayı düzenli olarak kontrol etmelerini tavsiye ederiz. Gizlilik politikamızdaki değişiklikler, bu sayfanın güncellenmesi ile birlikte hemen yürürlüğe girer.
+
+İletişim
+Bu gizlilik politikası ile ilgili sorularınız varsa, lütfen bizimle vahitkeskin07@gmail.com üzerinden iletişime geçin.
